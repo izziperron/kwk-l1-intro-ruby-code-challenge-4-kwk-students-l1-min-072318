@@ -43,4 +43,5 @@ if pennies == 0
 
 return coins
 end 
-least_coins(946)
+
+puts least_coins(946)
